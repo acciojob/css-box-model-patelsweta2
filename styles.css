@@ -11,9 +11,9 @@ body {
 
 #demoBox {
 	width: 300px;
-	margin:20px;
-	border: 15px solid blue;
+	border: 15px solid rgba(0,0,255);
 	padding: 50px;
+	margin:20px;
 	background-color: lightblue;
 		
 }
