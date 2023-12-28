@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+}
+
+#demoBox {
+	width: 300px;
+	margin:20px;
+	border: 15px solid blue;
+	padding: 50px;
+/* 	background-color: lightblue */
+	
+	
+}
